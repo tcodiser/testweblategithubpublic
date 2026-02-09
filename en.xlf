@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Weblate" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="titre" approved="no">
+        <source>titre</source>
+        <target state="translated">Let's go to Mars</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sous-titre" approved="no">
+        <source>sous-titre</source>
+        <target state="translated">By plane</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
